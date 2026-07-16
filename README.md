@@ -18,7 +18,8 @@
 
 ## How to start the App:
 
-<b>We need to finish the UI to write this part. </b>
+<b>Link to Matlab:</b> [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=lvgarretson/RTRN-CRIKT)<br>
+<b>(We need to finish the UI to write this part.) </b>
 
 <b> <ins>App Tutorial:</ins> (we should add a video of it working here)</b>
 
